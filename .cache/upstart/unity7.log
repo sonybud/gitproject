@@ -1,0 +1,10 @@
+1519605103182	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not correctly signed.
+1519605103183	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1519605103966	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1519605104013	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1519605104029	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1519605104131	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+1519605104143	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1519605104216	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1519605104250	addons.update-checker	WARN	Update manifest for timecop@mozilla.com did not contain an updates property
+1519605104276	addons.update-checker	WARN	Update manifest for disable-crash-autosubmit@mozilla.org did not contain an updates property

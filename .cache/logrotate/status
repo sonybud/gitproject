@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/home/budge/.cache/upstart/unity-panel-service.log" 2018-2-25-15:27:17
+"/home/budge/.cache/upstart/*.log" 2018-2-25-15:0:0
+"/home/budge/.cache/upstart/unity7.log" 2018-2-25-15:27:17
+"/home/budge/.cache/upstart/gnome-keyring-ssh.log" 2018-2-25-15:27:17
+"/home/budge/.cache/upstart/indicator-sound.log" 2018-2-25-15:27:17
+"/home/budge/.cache/upstart/upstart-event-bridge.log" 2018-2-25-15:27:17
+"/home/budge/.cache/upstart/window-stack-bridge.log" 2018-2-25-15:27:17
+"/home/budge/.cache/upstart/unity-settings-daemon.log" 2018-2-25-15:27:17
+"/home/budge/.cache/upstart/hud.log" 2018-2-25-15:27:17
+"/home/budge/.cache/upstart/ssh-agent.log" 2018-2-25-15:27:17
+"/home/budge/.cache/upstart/gpg-agent.log" 2018-2-25-15:27:17
+"/home/budge/.cache/upstart/dbus.log" 2018-2-25-15:27:17
